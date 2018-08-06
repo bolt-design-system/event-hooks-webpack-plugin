@@ -1,5 +1,5 @@
 {
-    "name": "event-hooks-webpack-plugin",
+    "name": "@bolt/event-hooks-webpack-plugin",
     "version": "2.0.0",
     "description": "Execute JavaScript on any available Webpack event hook",
     "main": "lib/index.js",
